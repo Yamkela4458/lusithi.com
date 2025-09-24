@@ -2,7 +2,7 @@
 
 Hello and welcome!
 
-This is where I share my work as a User Experience, Interface, Frontend web Developer. 
+This is where I share my work as a User Experience, Interface, and Frontend Web Developer. 
 
 Here you will find my projects, from interactive prototypes in Figma to fully functional interfaces with HTML, CSS and JavaScript, each project reflects my drive to create meaningful user experiences.
 
