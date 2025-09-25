@@ -99,7 +99,7 @@ body{
     color: #e6eef8;
     text-align: center;
     padding: 2rem 1rem;
-    margin-top: 130px;
+    margin-top: 150px;
     animation: bounce 3s infinite;
 }
 
@@ -626,4 +626,5 @@ button:hover{
   }
 
 }
+
 
