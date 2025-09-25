@@ -75,7 +75,7 @@ body{
 
 /* Intro */
 .intro{
-    margin-left: 300px;
+    margin-left: 360px;
     margin-top: 150px;
     color: #fff;
     background-size: cover;
@@ -626,3 +626,4 @@ button:hover{
   }
 
 }
+
