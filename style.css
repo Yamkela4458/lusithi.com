@@ -8,7 +8,7 @@ body{
     margin: 16px;
     color: burlywood;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 24px;
+    font-size: 26px;
     position: fixed;
 }
 
@@ -16,7 +16,7 @@ body{
     display: flex;
     justify-content: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 26px;
+    font-size: 28px;
     padding: 10px 10%;
     animation: bounce 2s infinite;
 }
@@ -76,7 +76,7 @@ body{
 /* Intro */
 .intro{
     margin-left: 300px;
-    margin-top: 130px;
+    margin-top: 150px;
     color: #fff;
     background-size: cover;
     background-image: url(images/2242848F-E03C-42EB-80ED-8ADF0C5D53A4.jpg);
@@ -128,7 +128,7 @@ body{
 }
 
 .tool i{
-    font-size: 3rem;
+    font-size: 3.2rem;
     margin-bottom: 0.5rem;
 }
 
@@ -152,7 +152,7 @@ section#project{
 section#project h1{
     text-align: center;
     color: burlywood;
-    font-size: 3.2rem;
+    font-size: 3.3rem;
     font-weight: 500;
     margin-top: 150px;
     margin-bottom: 40px;
@@ -191,11 +191,12 @@ section#project h1{
 .project-card h2{
     color: white;
     margin-bottom: 10px;
-    font-size: 1.5rem;
+    font-size: 2.0rem;
 }
 
 .project-card p {
     color: white;
+    font-size: 1.5rem;
     margin: 5px 0;
     line-height: 1.5;
 }
@@ -623,4 +624,5 @@ button:hover{
   .footer-container {
     flex-direction: column;
   }
+
 }
