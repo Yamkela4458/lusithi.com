@@ -114,6 +114,7 @@ body{
 
 .tools-grid{
     display: grid;
+    margin-top: 100px;
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     gap: 2rem;
     justify-items: center;
@@ -626,4 +627,5 @@ button:hover{
     flex-direction: column;
   }
 }
+
 
