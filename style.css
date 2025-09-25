@@ -215,7 +215,7 @@ section#project h1{
     margin: 5px 0;
     padding: 8px 12px;
     border-radius: 6px;
-    font-size: 1.0rem;
+    font-size: 1.2rem;
     background: 0.3s, transform 0.3s;
 }
 
@@ -627,5 +627,6 @@ button:hover{
     flex-direction: column;
   }
 }
+
 
 
